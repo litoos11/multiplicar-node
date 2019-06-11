@@ -1,8 +1,8 @@
-##Multiplicar console app
+## Multiplicar console app
 
 Esto es una aplicacion para crear archivos con las tablas de multiplicar
 
-Ejecutar
+Ejecutar este comando
 
 ...
 npm install
